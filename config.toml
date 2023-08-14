@@ -1,4 +1,4 @@
-baseURL = 'http://dirkwblog.github.io/'
+baseURL = 'https://dirkwblog.github.io/'
 languageCode = 'en-us'
 title = 'DirkW - Blog'
 theme = "hugo-blog-awesome"
